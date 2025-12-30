@@ -222,6 +222,7 @@ text
 | [0046-permutations](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0046-permutations) |
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
+| [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -242,4 +243,8 @@ text
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
