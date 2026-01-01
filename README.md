@@ -211,6 +211,7 @@ text
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -252,4 +253,8 @@ text
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
