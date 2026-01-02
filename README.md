@@ -225,6 +225,7 @@ text
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,6 +234,7 @@ text
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Sorting
 |  |
 | ------- |
