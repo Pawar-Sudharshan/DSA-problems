@@ -213,6 +213,7 @@ text
 | ------- |
 | [0061-rotate-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
