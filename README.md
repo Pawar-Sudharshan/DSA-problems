@@ -231,6 +231,7 @@ text
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-last-stone-weight](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1046-last-stone-weight) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Backtracking
 |  |
@@ -255,6 +256,7 @@ text
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Binary Search
 |  |
 | ------- |
