@@ -274,6 +274,7 @@ text
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
+| [0780-reaching-points](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0780-reaching-points) |
 ## Two Pointers
 |  |
 | ------- |
