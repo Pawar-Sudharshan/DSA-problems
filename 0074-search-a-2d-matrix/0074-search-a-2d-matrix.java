@@ -1,10 +1,16 @@
+import java.util.*;
+
 class Solution {
     public boolean searchMatrix(int[][] mat, int target) {
-        // int n = mat.length;
-        // int m = mat[0].length;
-        for(int[] list : mat){
-            for(int x : list){
-                if(x == target) return true;
+        for (int[] row : mat) {
+            List<Integer> list = new ArrayList<>(row.length);
+            for (int x : row) {
+                list.add(x);
+            }
+
+            int idx = Collections.binarySearch(list, target);
+            if (idx >= 0) {  
+                return true;
             }
         }
         return false;
