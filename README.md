@@ -224,6 +224,7 @@ text
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -274,6 +275,7 @@ text
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
 | [3453-separate-squares-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3453-separate-squares-i) |
@@ -348,6 +350,7 @@ text
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
