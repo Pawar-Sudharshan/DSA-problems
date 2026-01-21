@@ -243,6 +243,7 @@ text
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3453-separate-squares-i) |
 ## Backtracking
 |  |
@@ -395,6 +396,7 @@ text
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Geometry
 |  |
 | ------- |
