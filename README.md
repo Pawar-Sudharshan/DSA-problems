@@ -218,6 +218,7 @@ text
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
@@ -301,6 +302,7 @@ text
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
 | [0780-reaching-points](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0780-reaching-points) |
