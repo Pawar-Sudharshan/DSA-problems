@@ -1,31 +1,23 @@
 class Solution {
     public double myPow(double x, int n) {
-        // Handle edge case: if n is Integer.MIN_VALUE, convert to long to avoid overflow
-        long N = n;
-        
+        long N = n;              // promote to long
+
         if (N < 0) {
             x = 1 / x;
-            N = -N;
+            N = -N;              // safe now, because it's long
         }
-        
-        return fastPow(x, N);
-    }
-    
-    private double fastPow(double x, long n) {
-        // Base case
-        if (n == 0) {
-            return 1.0;
+
+        double ans = 1.0;
+        double base = x;
+
+        while (N > 0) {
+            if ((N & 1) == 1) {
+                ans *= base;
+            }
+            base *= base;
+            N >>= 1;
         }
-        
-        // Recursive case using exponentiation by squaring
-        double half = fastPow(x, n / 2);
-        
-        if (n % 2 == 0) {
-            // If n is even: x^n = (x^(n/2))^2
-            return half * half;
-        } else {
-            // If n is odd: x^n = x * (x^(n/2))^2
-            return half * half * x;
-        }
+
+        return ans;
     }
 }
