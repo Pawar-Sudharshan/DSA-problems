@@ -320,6 +320,7 @@ text
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
@@ -388,12 +389,14 @@ text
 | [0076-minimum-window-substring](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
+| [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -404,6 +407,7 @@ text
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
