@@ -254,6 +254,7 @@ text
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3637-trionic-array-i) |
@@ -452,6 +453,7 @@ text
 | ------- |
 | [0258-add-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
