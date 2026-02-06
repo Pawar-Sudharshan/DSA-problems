@@ -239,6 +239,7 @@ text
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
@@ -312,6 +313,7 @@ text
 | [0074-search-a-2d-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3453-separate-squares-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3453-separate-squares-i) |
@@ -333,6 +335,7 @@ text
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
