@@ -225,6 +225,7 @@ text
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0046-permutations) |
@@ -282,6 +283,7 @@ text
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0148-sort-list) |
@@ -330,6 +332,7 @@ text
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0061-rotate-list) |
