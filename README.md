@@ -231,6 +231,7 @@ text
 | [0046-permutations](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0079-word-search) |
@@ -287,6 +288,7 @@ text
 | [0015-3sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
