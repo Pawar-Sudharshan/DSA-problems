@@ -230,6 +230,7 @@ text
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0079-word-search) |
@@ -304,6 +305,7 @@ text
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -357,6 +359,7 @@ text
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
