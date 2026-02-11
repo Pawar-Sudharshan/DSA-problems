@@ -271,6 +271,7 @@ text
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -414,6 +415,7 @@ text
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0076-minimum-window-substring) |
@@ -455,6 +457,7 @@ text
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0076-minimum-window-substring) |
 ## Bucket Sort
 |  |
