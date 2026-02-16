@@ -371,6 +371,7 @@ text
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
@@ -452,6 +453,7 @@ text
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0190-reverse-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2595-number-of-even-and-odd-bits) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
