@@ -351,6 +351,7 @@ text
 | [0148-sort-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0696-count-binary-substrings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0696-count-binary-substrings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -432,6 +433,7 @@ text
 | [0151-reverse-words-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
 | [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
+| [0696-count-binary-substrings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
