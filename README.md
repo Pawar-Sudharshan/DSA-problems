@@ -339,6 +339,7 @@ text
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0258-add-digits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0780-reaching-points](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0780-reaching-points) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1266-minimum-time-visiting-all-points) |
 ## Two Pointers
@@ -472,6 +473,7 @@ text
 | ------- |
 | [0190-reverse-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2595-number-of-even-and-odd-bits) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
