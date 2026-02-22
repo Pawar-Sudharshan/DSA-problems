@@ -264,6 +264,7 @@ text
 | [3379-transformed-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
 | [3637-trionic-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3637-trionic-array-i) |
 ## Backtracking
 |  |
@@ -288,6 +289,7 @@ text
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
 | [3713-longest-balanced-substring-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
 ## Sorting
 |  |
@@ -334,6 +336,7 @@ text
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3453-separate-squares-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3453-separate-squares-i) |
+| [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -513,6 +516,7 @@ text
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
 ## Merge Sort
 |  |
 | ------- |
@@ -538,4 +542,9 @@ text
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
+## Design
+|  |
+| ------- |
+| [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
 <!---LeetCode Topics End-->
