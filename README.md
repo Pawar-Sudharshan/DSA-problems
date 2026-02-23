@@ -248,6 +248,7 @@ text
 | [0200-number-of-islands](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -486,6 +487,7 @@ text
 | ------- |
 | [0137-single-number-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0190-reverse-bits) |
+| [0260-single-number-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0260-single-number-iii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0868-binary-gap) |
