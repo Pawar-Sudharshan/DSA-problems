@@ -349,6 +349,7 @@ text
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0258-add-digits) |
+| [0371-sum-of-two-integers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0780-reaching-points](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0780-reaching-points) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -488,6 +489,7 @@ text
 | [0137-single-number-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0260-single-number-iii) |
+| [0371-sum-of-two-integers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0868-binary-gap) |
