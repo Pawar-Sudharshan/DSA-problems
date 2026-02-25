@@ -246,6 +246,7 @@ text
 | [0162-find-peak-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0260-single-number-iii) |
@@ -348,6 +349,7 @@ text
 | [0050-powx-n](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -540,10 +542,12 @@ text
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0258-add-digits) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
