@@ -463,6 +463,7 @@ text
 | [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
 | [0696-count-binary-substrings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2514-count-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2514-count-anagrams) |
@@ -475,6 +476,7 @@ text
 | [0094-binary-tree-inorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
