@@ -226,6 +226,7 @@ text
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -279,6 +280,7 @@ text
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0076-minimum-window-substring) |
