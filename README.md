@@ -251,6 +251,7 @@ text
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
@@ -373,6 +374,7 @@ text
 | [0148-sort-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0696-count-binary-substrings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
