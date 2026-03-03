@@ -223,6 +223,7 @@ text
 | ------- |
 | [0050-powx-n](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0206-reverse-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -478,6 +479,7 @@ text
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2514-count-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2514-count-anagrams) |
@@ -541,6 +543,7 @@ text
 | ------- |
 | [0258-add-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0258-add-digits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
