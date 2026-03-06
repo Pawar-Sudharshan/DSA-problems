@@ -266,6 +266,7 @@ text
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
