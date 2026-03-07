@@ -256,6 +256,7 @@ text
 | [0283-move-zeroes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0493-reverse-pairs) |
+| [0643-maximum-average-subarray-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -540,6 +541,7 @@ text
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bucket Sort
 |  |
