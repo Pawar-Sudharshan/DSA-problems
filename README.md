@@ -259,6 +259,7 @@ text
 | [0493-reverse-pairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -511,6 +512,7 @@ text
 | [0094-binary-tree-inorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0739-daily-temperatures) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Matrix
@@ -526,6 +528,7 @@ text
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
 | ------- |
