@@ -256,6 +256,7 @@ text
 | [0238-product-of-array-except-self](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0493-reverse-pairs) |
@@ -407,6 +408,7 @@ text
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
