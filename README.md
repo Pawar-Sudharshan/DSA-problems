@@ -660,4 +660,8 @@ text
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
