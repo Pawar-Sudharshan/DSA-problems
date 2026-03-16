@@ -387,6 +387,7 @@ text
 | [0204-count-primes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0371-sum-of-two-integers) |
+| [0537-complex-number-multiplication](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0537-complex-number-multiplication) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0780-reaching-points](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0780-reaching-points) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -505,6 +506,7 @@ text
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
+| [0537-complex-number-multiplication](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0537-complex-number-multiplication) |
 | [0696-count-binary-substrings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -589,6 +591,7 @@ text
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0258-add-digits) |
+| [0537-complex-number-multiplication](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0537-complex-number-multiplication) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
