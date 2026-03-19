@@ -2,47 +2,35 @@ import java.util.*;
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(nums); // sort first
 
         int n = nums.length;
-
-        for (int i = 0; i < n - 2; i++) {
-            
-            if (nums[i] > 0) break;
-
+        for (int i = 0; i < n; i++) {
+            // skip duplicate first elements
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
-            int left = i + 1;
-            int right = n - 1;
+            int target = -nums[i]; // we now want nums[j] + nums[k] == target
+            Set<Integer> seen = new HashSet<>(); // acts like map.containsKey(remaining)
+            for (int j = i + 1; j < n; j++) {
+                int complement = target - nums[j];
+                if (seen.contains(complement)) {
+                    // we found nums[i] + complement + nums[j] == 0
+                    List<Integer> triplet = Arrays.asList(nums[i], complement, nums[j]);
+                    res.add(triplet);
 
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
-
-                if (sum == 0) {
-                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
-
-                    left++;
-                    right--;
-
-                  
-                    while (left < right && nums[left] == nums[left - 1]) {
-                        left++;
+                    // skip duplicates for nums[j]
+                    while (j + 1 < n && nums[j] == nums[j + 1]) {
+                        j++;
                     }
-                    
-                    while (left < right && nums[right] == nums[right + 1]) {
-                        right--;
-                    }
-                } else if (sum < 0) {
-                    
-                    left++;
-                } else {
-                    
-                    right--;
                 }
+                seen.add(nums[j]);
             }
         }
 
-        return result;
+        // remove possible duplicate triplets if any (defensive; usually sorting + skips enough)
+        // But since array is sorted and we skip duplicates on i and j, this is typically not needed.
+
+        return res;
     }
 }
