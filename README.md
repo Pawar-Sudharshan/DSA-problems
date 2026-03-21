@@ -294,6 +294,7 @@ text
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
 | [3637-trionic-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
 |  |
 | ------- |
@@ -417,6 +418,7 @@ text
 | [0283-move-zeroes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0696-count-binary-substrings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
 | ------- |
@@ -552,6 +554,7 @@ text
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Monotonic Stack
 |  |
 | ------- |
