@@ -279,6 +279,7 @@ text
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1980-find-unique-binary-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -346,6 +347,7 @@ text
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -386,6 +388,7 @@ text
 | [0875-koko-eating-bananas](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3453-separate-squares-i) |
 | [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
@@ -430,6 +433,7 @@ text
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
@@ -599,6 +603,7 @@ text
 | [1004-max-consecutive-ones-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -651,6 +656,7 @@ text
 | [0238-product-of-array-except-self](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Union-Find
