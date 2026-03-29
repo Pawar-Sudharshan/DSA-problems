@@ -8,27 +8,30 @@ class Solution {
 
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
-        List<int[]> merged = new ArrayList<>();
-
-        int[] current = intervals[0];
-        merged.add(current);
+        ArrayList<ArrayList<Integer>> ans = new ArrayList<>();
+        ArrayList<Integer> curr = new ArrayList<>();
+        curr.add(intervals[0][0]);
+        curr.add(intervals[0][1]);
 
         for (int i = 1; i < intervals.length; i++) {
-            int currentStart = current[0];
-            int currentEnd = current[1];
-            int nextStart = intervals[i][0];
-            int nextEnd = intervals[i][1];
-
-            if (nextStart <= currentEnd) {
-                
-                current[1] = Math.max(currentEnd, nextEnd);
+            if (curr.get(1) >= intervals[i][0]) {
+                curr.set(1, Math.max(curr.get(1), intervals[i][1]));
             } else {
-              
-                current = intervals[i];
-                merged.add(current);
+                ans.add(curr);
+                curr = new ArrayList<>();
+                curr.add(intervals[i][0]);
+                curr.add(intervals[i][1]);
             }
         }
 
-        return merged.toArray(new int[merged.size()][]);
+        ans.add(curr);
+
+        int[][] res = new int[ans.size()][2];
+        for (int i = 0; i < ans.size(); i++) {
+            res[i][0] = ans.get(i).get(0);
+            res[i][1] = ans.get(i).get(1);
+        }
+
+        return res;
     }
 }
