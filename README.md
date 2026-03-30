@@ -211,6 +211,7 @@ text
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0141-linked-list-cycle) |
@@ -221,6 +222,7 @@ text
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -401,6 +403,7 @@ text
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
