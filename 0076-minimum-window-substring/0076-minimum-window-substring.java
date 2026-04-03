@@ -4,42 +4,34 @@ class Solution {
             return "";
         }
 
-        int[] need = new int[128];
-        for (char c : t.toCharArray()) {
-            need[c]++;
-        }
-
-        int required = t.length();   // total chars (with duplicates) we still need
+        String ans = "";
+        int[] window = new int[128];
+        int[] patt = new int[128];
         int left = 0;
-        int minLen = Integer.MAX_VALUE;
-        int start = 0;
+        int n = s.length();
 
-        for (int right = 0; right < s.length(); right++) {
-            char c = s.charAt(right);
-            if (need[c] > 0) {
-                required--;
-            }
-            need[c]--;  // always decrement; can go negative for extra chars
+        for (char ch : t.toCharArray()) patt[ch]++;
 
-            // when all required chars are included
-            while (required == 0) {
-                // update minimum window
-                if (right - left + 1 < minLen) {
-                    minLen = right - left + 1;
-                    start = left;
+        for (int right = 0; right < n; right++) {
+            char ch = s.charAt(right);
+            window[ch]++;
+
+            while (isValid(window, patt)) {
+                if (ans.length() == 0 || right - left + 1 < ans.length()) {
+                    ans = s.substring(left, right + 1);
                 }
-
-                char leftChar = s.charAt(left);
-                need[leftChar]++;
-
-                // if this char was needed (after increment > 0), window is no longer valid
-                if (need[leftChar] > 0) {
-                    required++;
-                }
+                window[s.charAt(left)]--;
                 left++;
             }
         }
 
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
+        return ans;
+    }
+
+    static boolean isValid(int[] w, int[] patt) {
+        for (int i = 0; i < 128; i++) {
+            if (w[i] < patt[i]) return false;
+        }
+        return true;
     }
 }
