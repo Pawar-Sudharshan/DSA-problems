@@ -230,6 +230,7 @@ text
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -420,6 +421,7 @@ text
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -437,6 +439,7 @@ text
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
