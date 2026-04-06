@@ -534,6 +534,7 @@ text
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0076-minimum-window-substring) |
