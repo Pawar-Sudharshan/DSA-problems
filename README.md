@@ -215,6 +215,7 @@ text
 | [0061-rotate-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -224,6 +225,7 @@ text
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
@@ -436,6 +438,7 @@ text
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -573,6 +576,7 @@ text
 | [0084-largest-rectangle-in-histogram](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0739-daily-temperatures) |
