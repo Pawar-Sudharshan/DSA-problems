@@ -552,6 +552,7 @@ text
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0071-simplify-path) |
@@ -581,6 +582,7 @@ text
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
