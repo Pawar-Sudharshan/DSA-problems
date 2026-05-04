@@ -386,6 +386,7 @@ text
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0410-split-array-largest-sum) |
@@ -498,6 +499,7 @@ text
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -520,6 +522,7 @@ text
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -534,6 +537,7 @@ text
 | [0094-binary-tree-inorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0226-invert-binary-tree) |
