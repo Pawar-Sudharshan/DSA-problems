@@ -301,6 +301,7 @@ text
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2906-construct-product-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -350,6 +351,7 @@ text
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2514-count-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2514-count-anagrams) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
 | [3713-longest-balanced-substring-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
@@ -435,6 +437,7 @@ text
 | [1266-minimum-time-visiting-all-points](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2514-count-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2514-count-anagrams) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
@@ -622,6 +625,7 @@ text
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2906-construct-product-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3546-equal-sum-grid-partition-i) |
