@@ -247,6 +247,7 @@ text
 | [0056-merge-intervals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -319,6 +320,7 @@ text
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0113-path-sum-ii) |
 | [1980-find-unique-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1980-find-unique-binary-string) |
@@ -640,6 +642,7 @@ text
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0260-single-number-iii) |
