@@ -302,6 +302,7 @@ text
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2527-find-xor-beauty-of-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2906-construct-product-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -440,6 +441,7 @@ text
 | [1266-minimum-time-visiting-all-points](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2514-count-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2514-count-anagrams) |
+| [2527-find-xor-beauty-of-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
@@ -660,6 +662,7 @@ text
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2527-find-xor-beauty-of-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2595-number-of-even-and-odd-bits) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Geometry
