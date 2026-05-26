@@ -356,6 +356,7 @@ text
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2514-count-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2514-count-anagrams) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
 | [3713-longest-balanced-substring-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
@@ -604,6 +605,7 @@ text
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1980-find-unique-binary-string) |
 | [2514-count-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2514-count-anagrams) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
