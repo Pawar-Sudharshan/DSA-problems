@@ -237,6 +237,7 @@ text
 | ------- |
 | [0001-two-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -585,6 +586,7 @@ text
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0049-group-anagrams) |
@@ -793,6 +795,7 @@ text
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Database
