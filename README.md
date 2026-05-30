@@ -812,6 +812,7 @@ text
 | [0595-big-countries](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1527-patients-with-a-condition) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1757-recyclable-and-low-fat-products) |
