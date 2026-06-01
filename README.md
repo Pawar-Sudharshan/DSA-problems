@@ -814,6 +814,7 @@ text
 | [0596-classes-with-at-least-5-students](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1251-average-selling-price) |
 | [1527-patients-with-a-condition](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1667-fix-names-in-a-table) |
