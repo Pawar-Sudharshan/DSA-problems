@@ -811,6 +811,7 @@ text
 | [0197-rising-temperature](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0596-classes-with-at-least-5-students) |
 | [1148-article-views-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
