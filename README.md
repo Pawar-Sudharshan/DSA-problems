@@ -567,6 +567,7 @@ text
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -579,6 +580,7 @@ text
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0322-coin-change) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -827,4 +829,12 @@ text
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0239-sliding-window-maximum) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
