@@ -277,6 +277,7 @@ text
 | [0410-split-array-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
@@ -350,6 +351,7 @@ text
 | [0387-first-unique-character-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -755,6 +757,7 @@ text
 | [0209-minimum-size-subarray-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
