@@ -322,6 +322,7 @@ text
 | [3546-equal-sum-grid-partition-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3637-trionic-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3643-flip-square-submatrix-vertically) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -489,6 +490,7 @@ text
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
