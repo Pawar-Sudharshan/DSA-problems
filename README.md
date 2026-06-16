@@ -626,6 +626,7 @@ text
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1980-find-unique-binary-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2514-count-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2514-count-anagrams) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
