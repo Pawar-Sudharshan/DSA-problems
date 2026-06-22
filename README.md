@@ -359,6 +359,7 @@ text
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1189-maximum-number-of-balloons](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -399,6 +400,7 @@ text
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -621,6 +623,7 @@ text
 | [0537-complex-number-multiplication](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0537-complex-number-multiplication) |
 | [0696-count-binary-substrings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
