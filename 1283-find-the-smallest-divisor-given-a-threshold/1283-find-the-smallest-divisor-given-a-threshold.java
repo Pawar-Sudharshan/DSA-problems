@@ -4,18 +4,14 @@ class Solution {
         for (int x : nums) {
             max = Math.max(max, x);
         }
-
         int left = 1, right = max;
         int ans = max;
-
         while (left <= right) {
             int mid = left + (right - left) / 2;
             long sum = 0;
-
             for (int num : nums) {
                 sum += (num + mid - 1) / mid;
             }
-
             if (sum <= threshold) {
                 ans = mid;
                 right = mid - 1;
@@ -23,7 +19,6 @@ class Solution {
                 left = mid + 1;
             }
         }
-
         return ans;
     }
 }
