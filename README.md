@@ -297,6 +297,7 @@ text
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -444,6 +445,7 @@ text
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1901-find-a-peak-element-ii) |
