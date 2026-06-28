@@ -353,6 +353,7 @@ text
 | [0128-longest-consecutive-sequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
@@ -626,6 +627,7 @@ text
 | [0125-valid-palindrome](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
