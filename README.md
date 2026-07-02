@@ -268,6 +268,7 @@ text
 | [0200-number-of-islands](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0239-sliding-window-maximum) |
@@ -342,6 +343,7 @@ text
 | [0079-word-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0216-combination-sum-iii) |
 | [1980-find-unique-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
