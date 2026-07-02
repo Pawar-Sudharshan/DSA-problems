@@ -464,6 +464,7 @@ text
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
@@ -708,6 +709,7 @@ text
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0137-single-number-ii) |
