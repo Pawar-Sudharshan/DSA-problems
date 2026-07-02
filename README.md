@@ -423,6 +423,7 @@ text
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
@@ -469,6 +470,7 @@ text
 | [0029-divide-two-integers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0258-add-digits) |
@@ -900,4 +902,8 @@ text
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1833-maximum-ice-cream-bars) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
