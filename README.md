@@ -493,6 +493,7 @@ text
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -671,6 +672,7 @@ text
 | [2514-count-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2514-count-anagrams) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -820,6 +822,7 @@ text
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3546-equal-sum-grid-partition-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
 | ------- |
