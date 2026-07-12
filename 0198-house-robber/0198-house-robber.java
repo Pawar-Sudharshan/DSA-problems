@@ -7,7 +7,7 @@ class Solution {
     }
     private static int helper(int[] nums , int idx,int[] dp){
         if(idx == 0) return nums[idx];
-        if(idx < 0) return 0;
+        // if(idx < 0) return 0;
         
         int pick = nums[idx];
         if(idx-2 >= 0 && dp[idx-2] == -1  ){
