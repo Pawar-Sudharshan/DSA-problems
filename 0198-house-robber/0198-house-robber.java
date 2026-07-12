@@ -3,7 +3,13 @@ class Solution {
         int n = nums.length;
         int[] dp = new int[n+1];
         Arrays.fill(dp,-1);
-        return helper(nums,n-1,dp);
+        dp[0] = nums[0];
+        for(int i = 1; i < n ;i++){
+            int take = nums[i] +( (i>1)?dp[i-2]:0);
+            int non = dp[i-1];
+            dp[i]=Math.max(take,non);
+        }
+        return  dp[n-1];
     }
     private static int helper(int[] nums , int idx,int[] dp){
         if(idx == 0) return nums[idx];
