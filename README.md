@@ -262,6 +262,7 @@ text
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
@@ -437,6 +438,7 @@ text
 | [0064-minimum-path-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0198-house-robber) |
