@@ -319,6 +319,7 @@ text
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1980-find-unique-binary-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -501,6 +502,7 @@ text
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2514-count-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2514-count-anagrams) |
 | [2527-find-xor-beauty-of-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2527-find-xor-beauty-of-array) |
@@ -824,6 +826,7 @@ text
 | ------- |
 | [0204-count-primes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
