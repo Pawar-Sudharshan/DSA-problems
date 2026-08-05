@@ -650,6 +650,7 @@ text
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -662,6 +663,7 @@ text
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3310-remove-methods-from-project) |
 ## String
 |  |
 | ------- |
@@ -941,6 +943,7 @@ text
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0207-course-schedule) |
+| [3310-remove-methods-from-project](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
