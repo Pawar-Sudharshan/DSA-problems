@@ -23,7 +23,9 @@ class Solution {
         for (int val : list) {
             if (val > max) max = val;
         }
+        // Collections.sort(list);
         return max;
+        // return list.get(list.size()-1) - list.get(0);
     }
 
     private int helper(TreeNode root, List<Integer> list) {
@@ -33,29 +35,13 @@ class Solution {
         int rightHeight = helper(root.right, list);
 
         list.add(leftHeight + rightHeight);
-
+        // list.add(x);
+        // helper(root.left,list,x-1);
+        // helper(root.right ,list,x+1);
         return 1 + Math.max(leftHeight, rightHeight);
     }
     
     // Returns the height of the tree rooted at node
     // Updates maxDiameter if the path through this node is larger
-    private int dfs(TreeNode node) {
-        if (node == null) {
-            return 0;
-        }
-        
-        // Get heights of left and right subtrees
-        int leftHeight = dfs(node.left);
-        int rightHeight = dfs(node.right);
-        
-        // The diameter through this node is sum of left and right heights
-        int currentDiameter = leftHeight + rightHeight;
-        
-        // Update the maximum diameter found so far
-        maxDiameter = Math.max(maxDiameter, currentDiameter);
-        
-        // Return the height of the tree rooted at this node
-        // Height is 1 + max height of its subtrees
-        return 1 + Math.max(leftHeight, rightHeight);
-    }
+   
 }
