@@ -964,4 +964,8 @@ text
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0877-stone-game) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
