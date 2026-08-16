@@ -219,6 +219,7 @@ text
 | [0141-linked-list-cycle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -371,6 +372,7 @@ text
 | [0128-longest-consecutive-sequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
@@ -817,6 +819,7 @@ text
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -877,6 +880,7 @@ text
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
