@@ -384,6 +384,7 @@ text
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -412,6 +413,7 @@ text
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -602,6 +604,7 @@ text
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -630,6 +633,7 @@ text
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -651,6 +655,7 @@ text
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -666,6 +671,7 @@ text
 | [0226-invert-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0322-coin-change) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3310-remove-methods-from-project) |
