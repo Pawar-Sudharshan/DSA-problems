@@ -1,55 +1,39 @@
 class Solution {
-    static class NodeInfo {
-        int row;
-        int value;
-
-        NodeInfo(int row, int value) {
-            this.row = row;
-            this.value = value;
-        }
-    }
+    List<int[]> nodes = new ArrayList<>();
 
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        Map<Integer, List<NodeInfo>> map = new TreeMap<>();
+        dfs(root, 0, 0);
 
-        f(root, map, 0, 0);
+        nodes.sort((a, b) -> {
+            if (a[0] != b[0]) return a[0] - b[0]; // column
+            if (a[1] != b[1]) return a[1] - b[1]; // row
+            return a[2] - b[2];                   // value
+        });
 
         List<List<Integer>> result = new ArrayList<>();
+        int previousColumn = Integer.MIN_VALUE;
 
-        for (List<NodeInfo> nodes : map.values()) {
-            nodes.sort((a, b) -> {
-                if (a.row != b.row) {
-                    return a.row - b.row;
-                }
-                return a.value - b.value;
-            });
+        for (int[] node : nodes) {
+            int column = node[0];
+            int value = node[2];
 
-            List<Integer> column = new ArrayList<>();
-
-            for (NodeInfo node : nodes) {
-                column.add(node.value);
+            if (column != previousColumn) {
+                result.add(new ArrayList<>());
+                previousColumn = column;
             }
 
-            result.add(column);
+            result.get(result.size() - 1).add(value);
         }
 
         return result;
     }
 
-    private void f(
-        TreeNode root,
-        Map<Integer, List<NodeInfo>> map,
-        int row,
-        int col
-    ) {
-        if (root == null) {
-            return;
-        }
+    private void dfs(TreeNode root, int row, int column) {
+        if (root == null) return;
 
-        map.putIfAbsent(col, new ArrayList<>());
-        map.get(col).add(new NodeInfo(row, root.val));
+        nodes.add(new int[]{column, row, root.val});
 
-        f(root.left, map, row + 1, col - 1);
-        f(root.right, map, row + 1, col + 1);
+        dfs(root.left, row + 1, column - 1);
+        dfs(root.right, row + 1, column + 1);
     }
 }
