@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-SELECT Today.id
+SELECT today.id
 FROM Weather AS Today
 JOIN Weather AS Yesterday
   ON DATE_SUB(Today.recordDate, INTERVAL 1 DAY) = Yesterday.recordDate
