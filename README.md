@@ -417,6 +417,7 @@ text
 | [0148-sort-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -546,6 +547,7 @@ text
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0295-find-median-from-data-stream) |
 | [0696-count-binary-substrings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1768-merge-strings-alternately) |
@@ -577,6 +579,7 @@ text
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1046-last-stone-weight) |
@@ -913,6 +916,7 @@ text
 | [0146-lru-cache](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
 ## Combinatorics
@@ -1017,5 +1021,6 @@ text
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
