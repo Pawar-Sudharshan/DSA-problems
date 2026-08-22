@@ -23,6 +23,6 @@ class Solution {
             result.append(value);
         }
 
-        return result.toString();
+        return String.join("", num);
     }
 }
