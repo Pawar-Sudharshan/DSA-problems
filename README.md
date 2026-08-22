@@ -575,6 +575,7 @@ text
 | [0023-merge-k-sorted-lists](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1046-last-stone-weight) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -612,6 +613,7 @@ text
 | [0226-invert-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -622,6 +624,7 @@ text
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -641,6 +644,7 @@ text
 | [0226-invert-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -905,6 +909,7 @@ text
 | [0146-lru-cache](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
 ## Combinatorics
 |  |
@@ -1005,4 +1010,8 @@ text
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
