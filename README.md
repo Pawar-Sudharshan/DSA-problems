@@ -267,6 +267,7 @@ text
 | [0120-triangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0162-find-peak-element) |
@@ -571,6 +572,7 @@ text
 | [0011-container-with-most-water](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0402-remove-k-digits) |
