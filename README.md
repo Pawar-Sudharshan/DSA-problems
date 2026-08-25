@@ -246,6 +246,7 @@ text
 | [0033-search-in-rotated-sorted-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0053-maximum-subarray) |
@@ -455,6 +456,7 @@ text
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0064-minimum-path-sum) |
@@ -567,6 +569,7 @@ text
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0334-increasing-triplet-subsequence) |
