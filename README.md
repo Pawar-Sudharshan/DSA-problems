@@ -1049,6 +1049,7 @@ text
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -1058,4 +1059,8 @@ text
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1143-longest-common-subsequence) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
