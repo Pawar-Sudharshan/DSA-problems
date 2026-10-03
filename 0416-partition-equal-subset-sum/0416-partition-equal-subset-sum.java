@@ -1,29 +1,31 @@
 class Solution {
-    static int sum;
-
     public boolean canPartition(int[] nums) {
-        sum = 0;
+        int sum = 0;
+        int n = nums.length;
+
         for (int x : nums) sum += x;
+        if (sum % 2 == 1) return false;
 
-        if (sum % 2 != 0) return false;
+        sum = sum / 2;
+        int[][] dp = new int[sum + 1][n + 1];
+        for (int[] a : dp) Arrays.fill(a, -1);
 
-        int k = sum / 2;
-        int[][] dp = new int[nums.length][k + 1];
-        for (int[] row : dp) Arrays.fill(row, -1);
-
-        return f(nums, 0, k, dp);
+        return f(nums, sum, n - 1, dp) == 1;
     }
 
-    private static boolean f(int[] nums, int idx, int target, int[][] dp) {
-        if (target == 0) return true;
-        if (idx == nums.length || target < 0) return false;
+    private int f(int[] nums, int sum, int i, int[][] dp) {
+        if (sum < 0) return 0;
+        if (sum == 0) return 1;
 
-        if (dp[idx][target] != -1) return dp[idx][target] == 1;
+        if (i == 0) {
+            return (sum == nums[0]) ? 1 : 0;
+        }
 
-        boolean take = f(nums, idx + 1, target - nums[idx], dp);
-        boolean notTake = f(nums, idx + 1, target, dp);
+        if (dp[sum][i] != -1) return dp[sum][i];
 
-        dp[idx][target] = (take || notTake) ? 1 : 0;
-        return dp[idx][target] == 1;
+        int left = f(nums, sum - nums[i], i - 1, dp);
+        int right = f(nums, sum, i - 1, dp);
+
+        return dp[sum][i] = (left == 1 || right == 1) ? 1 : 0;
     }
 }
