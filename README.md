@@ -295,6 +295,7 @@ text
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -367,6 +368,7 @@ text
 | [0090-subsets-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
@@ -475,6 +477,7 @@ text
 | [0410-split-array-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0799-champagne-tower) |
@@ -1052,10 +1055,12 @@ text
 | ------- |
 | [0322-coin-change](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
 | ------- |
