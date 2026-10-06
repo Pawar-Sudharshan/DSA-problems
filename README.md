@@ -468,6 +468,7 @@ text
 | [0064-minimum-path-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0152-maximum-product-subarray) |
@@ -731,6 +732,7 @@ text
 | [0071-simplify-path](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
