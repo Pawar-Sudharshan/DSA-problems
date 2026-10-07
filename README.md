@@ -288,6 +288,7 @@ text
 | [0283-move-zeroes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -480,6 +481,7 @@ text
 | [0198-house-robber](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0416-partition-equal-subset-sum) |
