@@ -391,6 +391,7 @@ text
 | [0141-linked-list-cycle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
@@ -538,6 +539,7 @@ text
 | [0066-plus-one](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0371-sum-of-two-integers) |
@@ -576,6 +578,7 @@ text
 | [0148-sort-list](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0295-find-median-from-data-stream) |
@@ -1059,6 +1062,7 @@ text
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 ## Treap
 |  |
