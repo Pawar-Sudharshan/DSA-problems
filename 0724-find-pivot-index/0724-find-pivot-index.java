@@ -4,7 +4,7 @@ class Solution {
         for (int x : nums) total += x;      
         int left = 0;
         for (int i = 0; i < nums.length; i++) {
-            int right = total - left - nums[i]; // sum on right side
+            int right = total - left - nums[i]; 
             if (left == right) return i;
             left += nums[i];
         }
