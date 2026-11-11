@@ -560,6 +560,7 @@ text
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -614,6 +615,7 @@ text
 | [3074-apple-redistribution-into-boxes](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
