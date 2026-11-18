@@ -1,47 +1,44 @@
 class Solution {
+    static int ans;
+
     public int shipWithinDays(int[] weights, int days) {
-        int sum =0;
-        int n = weights.length;
-        int max = 0;
-        for(int w : weights){
-            max = Math.max(w,max);
-             sum += w;
+        int l = 0;
+        int r = 0;
+
+        for (int x : weights) {
+            l = Math.max(l, x);
+            r += x;
         }
 
-        // for(int d =max ; d <= sum ;d++){
-        //     int day = 1;
-        //     int s = 0;
-        //     for(int i = 0 ; i <n;i++ ){
-        //         if(s+weights[i] <= d){
-        //             s+= weights[i];
-        //         }else{
-        //             day++;
-        //             s = weights[i];
-        //         }
-        //     }
-        //     if(day <= days) return d;
-        // }
+        ans = Integer.MAX_VALUE;
 
-        int left = max , right = sum , ans = sum;
-        while(left<=right){
-            int mid = left + (right - left)/2;
-            int day = 1 ,  s = 0;
-            for(int x : weights){
-                if(s+x <= mid) {
-                    s += x;
-                }else{
-                    day++;
-                    s = x;
-                }
+        while (l <= r) {
+            int m = l + (r - l) / 2;
 
-            }
-            if(day <= days){
-                ans = mid;
-                right = mid -1;
-            }else{
-                left = mid +1;
+            if (valid(weights, m, days)) {
+                ans = Math.min(ans, m);
+                r = m - 1;
+            } else {
+                l = m + 1;
             }
         }
+
         return ans;
+    }
+
+    private static boolean valid(int[] w, int m, int d) {
+        int cnt = 1;
+        int sum = 0;
+
+        for (int x : w) {
+            if (sum + x > m) {
+                cnt++;
+                sum = x;
+            } else {
+                sum += x;
+            }
+        }
+
+        return cnt <= d;
     }
 }
