@@ -1,9 +1,7 @@
-import java.util.*;
-
 class Solution {
-    public boolean searchMatrix(int[][] mat, int target) {
-        int n = mat.length;        // number of rows
-        int m = mat[0].length;     // number of columns
+    public boolean searchMatrix(int[][] matrix, int target) {
+        int n = matrix.length;
+        int m = matrix[0].length;
 
         int left = 0;
         int right = n * m - 1;
@@ -11,17 +9,15 @@ class Solution {
         while (left <= right) {
             int mid = left + (right - left) / 2;
 
-            int row = mid / m;     // use m here
-            int col = mid % m;     // and here
+            int p1 = mid / m;
+            int p2 = mid % m;
 
-            if (mat[row][col] == target) {
-                return true;
-            } else if (mat[row][col] > target) {
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
+            if (matrix[p1][p2] == target) return true;
+
+            if (matrix[p1][p2] > target) right = mid - 1;
+            else left = mid + 1;
         }
+
         return false;
     }
 }
