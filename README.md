@@ -365,6 +365,7 @@ text
 | [3689-maximum-total-subarray-value-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -425,6 +426,7 @@ text
 | [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
 | [3713-longest-balanced-substring-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -530,6 +532,7 @@ text
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3453-separate-squares-i) |
 | [3508-implement-router](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3508-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -977,10 +980,12 @@ text
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3934-smallest-unique-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1104,4 +1109,8 @@ text
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0300-longest-increasing-subsequence) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
