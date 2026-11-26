@@ -15,27 +15,28 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        if (root == null) return null;   // handle empty tree
-
-        Stack<TreeNode> stack = new Stack<>();
-        stack.push(root);
-
-        while (!stack.isEmpty()) {
-            TreeNode node = stack.pop();
-
-            // swap children
-            TreeNode temp = node.left;
-            node.left = node.right;
-            node.right = temp;
-
-            // push non-null children
-            if (node.left != null) {
-                stack.push(node.left);
-            }
-            if (node.right != null) {
-                stack.push(node.right);
-            }
-        }
+        if(root == null) return root;
+        TreeNode temp = root;
+        f(temp);
         return root;
+    }
+    private static void f(TreeNode root){
+        if(root == null) return;
+        if(root.left == null && root.right != null){
+            root.left = root.right;
+            root.right = null;
+        } 
+        else if(root.left != null && root.right == null){
+            root.right = root.left;
+            root.left = null;
+        } 
+        else {
+            TreeNode curr = root.left;
+            root.left = root.right;
+            root.right = curr;
+        }
+        f(root.left);
+        f(root.right);
+
     }
 }
