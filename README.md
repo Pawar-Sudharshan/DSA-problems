@@ -295,6 +295,7 @@ text
 | [0322-coin-change](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -440,6 +441,7 @@ text
 | [0229-majority-element-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0646-maximum-length-of-pair-chain) |
@@ -516,6 +518,7 @@ text
 | [0287-find-the-duplicate-number](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0704-binary-search) |
@@ -628,6 +631,7 @@ text
 | [0239-sliding-window-maximum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1046-last-stone-weight) |
@@ -818,6 +822,7 @@ text
 | [0085-maximal-rectangle](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
