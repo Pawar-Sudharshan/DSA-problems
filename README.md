@@ -1118,4 +1118,8 @@ text
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/3934-smallest-unique-subarray) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
