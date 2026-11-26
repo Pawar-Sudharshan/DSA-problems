@@ -659,6 +659,7 @@ text
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -690,6 +691,7 @@ text
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -716,6 +718,7 @@ text
 | [0079-word-search](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0113-path-sum-ii) |
@@ -736,6 +739,7 @@ text
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0104-maximum-depth-of-binary-tree) |
