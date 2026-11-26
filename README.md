@@ -295,6 +295,7 @@ text
 | [0322-coin-change](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -631,6 +632,7 @@ text
 | [0239-sliding-window-maximum](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pawar-Sudharshan/DSA-problems/tree/master/0703-kth-largest-element-in-a-stream) |
